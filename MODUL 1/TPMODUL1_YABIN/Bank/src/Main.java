@@ -5,8 +5,8 @@ public class Main {
         Bank bank = new Bank();
 
         // Create 3 Account objects
-        Account account1 = new Account("John_SI1234", "1234567890");
-        Account account2 = new Account("Alice_SI5678", "9876543210");
+        Account account1 = new Account("Yabin_SI46INT", "1202224112");
+        Account account2 = new Account("Sample_SIxx00", "1200000000");
         Account account3 = new Account("ShortName_Class", "NIM");
 
         // Deposit and withdraw some money
